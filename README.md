@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/91610919/221360421-c4bca4fc-5fe8-48ac-ac15-d5ae5db7afd5.png">
 </p>
 
-<h4>Unlike Astro, on Gatspy the App's hierarchy is pretty structured and the available template is nice looking, and the last thing is Gatspy is so compatible with the CMS i'm using</h4>
+<h4>Unlike Astro, on Gatspy the App's hierarchy is pretty structured and the available template is nice looking, and the last thing is Gatspy is so compatible with the CMS i'm using.</h4>
 
 **Note:** This starter uses [Gatsby v4](https://www.gatsbyjs.com/gatsby-4/).
 
