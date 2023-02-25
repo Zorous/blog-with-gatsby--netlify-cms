@@ -3,6 +3,8 @@
 <img src="https://user-images.githubusercontent.com/91610919/221360421-c4bca4fc-5fe8-48ac-ac15-d5ae5db7afd5.png">
 </p>
 
+<h4>Unlike Astro, on Gatspy the App's hierarchy is pretty structured and the available template is nice looking</h4>
+
 **Note:** This starter uses [Gatsby v4](https://www.gatsbyjs.com/gatsby-4/).
 
 This repo contains an example business website that is built with [Gatsby](https://www.gatsbyjs.org/), and [Netlify CMS](https://www.netlifycms.org): **[Demo Link](https://gatsby-netlify-cms.netlify.com/)**.
